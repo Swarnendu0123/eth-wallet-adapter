@@ -32,7 +32,13 @@ function App() {
         ______________________________________
         <br />
         <WalletOptions />
+        <br />
+        ______________________________________
+        <br />
         <MyAddress />
+        <br />
+        ______________________________________
+        <br />
       </QueryClientProvider>
     </WagmiProvider>
   );
